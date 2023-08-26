@@ -1,0 +1,156 @@
+*{
+    background-color: #fffcf8;
+}
+.head-1{
+    width: 1523px;
+    height: 170px;
+    
+}
+.nav-bar{
+    margin: 20px;
+    
+}
+.image-width{
+    width: 180px;
+    height: 30px;
+    
+    border-radius: 7px;
+}
+.names-1{
+    width: 441px;
+    height: 24px;
+    margin-top: 4px;
+}
+.name-size{
+    color: var(--food-delivery-pg, #212244);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.search-bar{
+    width: 404px;
+    height: 40px;
+    border-radius: 10px;
+}
+.dammi-sea{
+    width: 222px;
+    height: 40px;
+    border: 1px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.vertical-line{
+    height: 30px;
+    border-left: 1px solid #f0f0f2;
+}
+.button-in{
+    width: 109px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    background-color: #f94a3d;
+}
+.container-1{
+    width: 100vw;
+    height: 850px;
+   margin-left: 30px;
+}
+.try-new{
+    margin-left: 40px;
+}
+.more-then{
+    width: 524 px;
+    height: 472px;
+    border: 1px;
+    padding-top:10 px;
+   
+}
+.food-1{
+    width: 130px;
+    height: 50px;
+    background-color: #f94a3d;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    
+}
+.paragraph{
+    color: #7c7a8a;
+    
+}
+.more-words{
+    
+    font-size: 50px !important;
+}
+.chicken-bar{
+    width: 1439px;
+    height: 383px;
+    top: 1035px;
+    left: 240px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.chicken-1{
+    margin-left: 60px;
+}
+.try-special{
+    font-size: 40px;
+    font-weight: 2000px !important;
+    color:#222243;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.menu-man{
+    padding-top: 20px;
+    justify-content: center;
+}
+.menu-kiran{
+    margin-left: 30px;
+}
+.burgar-chicken{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.display-type{
+    margin-left: 45px;
+    margin-top: 50px;
+}
+.footer-end{
+    margin-top: -90px;
+    margin-left: -150px;
+    margin-bottom: 40px;
+}
+.d-the{
+    margin-top: 30px;
+}
+.d-thee{
+    margin-top: 40px;
+}
+.table-man{
+    margin-top:40px ;
+    margin-left: -500px;
+}
+.sap-1{
+    margin-left:100px ;
+}
+.kanna-1{
+   margin-right: 20px;
+}
+.sabbu-1{
+    margin-left:-10px ;
+    margin-bottom: 70px;
+    margin-top: -40px;
+}
+.text-color{
+    color: #a19fa9;
+    font-weight: lighter;
+    font-size: medium;
+}
+.janva-1{
+    margin-left: 90px;
+}
